@@ -1,0 +1,15 @@
+{
+	"name":"timemaster",
+
+	"version":"1.0",
+
+	"manifest_version":2, 
+	"offline_enabled":true,
+	"description":"This extension recode browser action and history", 
+	 "page_action": {
+	"default_icon": "icon.png", 
+	"default_title": "Do action",     
+	"default_popup": "popup.html"     
+ 	 }
+ 
+}
